@@ -1,1 +1,1 @@
-# Machine-Learning-Assignments
+# Machine-Learning-from-Scratch
